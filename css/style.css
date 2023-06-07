@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.m_b{
+	margin-bottom: 45px;
+	border: 1px solid black;
+}
+.container{
+	text-align: center;
+	box-sizing: border-box;
+}
+h2{
+	text-align: center;
+}
+.b_1{
+	border: 1px solid black;
+}
+.marginb{
+	margin-bottom: 45px;
+}
+.dpf{
+	display: flex;
+	justify-content: space-between;
+}
